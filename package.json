@@ -1,0 +1,22 @@
+{
+  "name": "chris-npm",
+  "version": "1.0.1",
+  "description": "a new project for my npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisfitkin/How-to-npm.git"
+  },
+  "author": "Chris Fitkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisfitkin/How-to-npm/issues"
+  },
+  "homepage": "https://github.com/chrisfitkin/How-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
